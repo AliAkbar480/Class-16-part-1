@@ -1,0 +1,93 @@
+.full-website{
+    width: 1532px;
+    margin: auto;
+}
+
+.header{
+    background: #101446;
+    padding: 15px;
+}
+.header-logo img{
+    width: 80px;
+    height: auto;
+}
+.header-menu{}
+.header-menu ul{
+    list-style: none;
+    text-align: right;
+    margin-bottom: 0;
+}
+.header-menu ul li{
+    display: inline-block;
+}
+.header-menu ul li a{
+    color: #fff;
+    display: inline-block;
+    padding: 0px 20px;
+    text-decoration: none;
+    line-height: 45px;
+}
+.header-menu ul li a:hover{}
+
+/* banner start */
+.banner {
+    color: #fff;
+    background: url(./intro-bg.jpg) no-repeat;
+    height: 740px;
+    margin: auto;
+    background-size: cover;
+    background-position: bottom center;
+    background-position: fixed;
+    
+}
+.banner h2{
+    margin-top: 293px;
+    margin-bottom: 38px;
+}
+.banner p{
+    margin-bottom: 39px;
+    width: 90%! important;
+}
+.banner-heading{
+    margin-left: -59px;
+}
+.banner button {
+    margin-left: 36px;
+    margin-top: 50px;
+}
+.service{
+    background: #bac1f3;
+}
+.text{
+    margin-left: -10px;
+    font-size: 15px;
+}
+.about{
+    background: #c2d4ea;
+}
+.heading-5{
+    color: #585b5e;
+}
+
+.contact-us{
+    background-color: #f5f5f5;
+}
+
+.footer{
+    background: #0d6efd;
+}
+
+.footer span{
+    font-weight: 900;
+}
+.footer p{
+    margin-bottom: -2px;
+}
+
+.container{
+    width: 1080px;
+    margin: auto;
+} 
+input strong{
+    margin-bottom: 5px;
+}
